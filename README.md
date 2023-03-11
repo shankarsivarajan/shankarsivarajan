@@ -3,7 +3,7 @@
 ## Blender Addons
 - Import-Export
 	- [Skinned Graphs](https://github.com/shankarsivarajan/Blender_Skinned_Graph_io)
-	- [Knots](https://github.com/shankarsivarajan/blender_knots)
+	- [ASCII Knots](https://github.com/shankarsivarajan/blender_knots)
 	- [Origami FOLDs](https://github.com/shankarsivarajan/blender_import_fold)
 	- [Terragen terrains](https://github.com/shankarsivarajan/blender_import_terragen)
 	- [USC-HairSalon hairstyles](https://github.com/shankarsivarajan/blender_import_HairSalon)
