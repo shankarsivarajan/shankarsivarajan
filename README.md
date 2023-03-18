@@ -25,5 +25,6 @@
 - Tengwar
 	- [Tengwar Artano](https://github.com/shankarsivarajan/TengwarArtano)
 	- [Tengwar Hanno](https://github.com/shankarsivarajan/TengwarHanno)
+	- [Tengwar Pixel](https://github.com/shankarsivarajan/TengwarPixel) 
 	- [Tengwar Rácina](https://github.com/shankarsivarajan/TengwarRacina)
 	- [Tengwar Gondolin](https://github.com/shankarsivarajan/TengwarGondolin)
