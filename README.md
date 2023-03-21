@@ -22,6 +22,8 @@
 ## Fonts
 - Latin
 	- [Latin Artano](https://github.com/shankarsivarajan/LatinArtano)
+- Cyrillic
+	- [Eliasovich](https://github.com/shankarsivarajan/Eliasovich)
 - Tengwar
 	- [Tengwar Artano](https://github.com/shankarsivarajan/TengwarArtano)
 	- [Tengwar Hanno](https://github.com/shankarsivarajan/TengwarHanno)
