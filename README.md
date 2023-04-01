@@ -32,4 +32,4 @@
 	- [Tengwar Rácina](https://github.com/shankarsivarajan/TengwarRacina)
 	- [Tengwar Gondolin](https://github.com/shankarsivarajan/TengwarGondolin)
 - Devanagari
-	- [Devanagari Pixel](https://github.com/shankarsivarajan/DevanagariPixel)
+	- [Devanagari Pixel](https://github.com/shankarsivarajan/DevanagariPixel) (In Progress)
