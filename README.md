@@ -33,3 +33,5 @@
 	- [Tengwar Gondolin](https://github.com/shankarsivarajan/TengwarGondolin)
 - Devanagari
 	- [Devanagari Pixel](https://github.com/shankarsivarajan/DevanagariPixel) (In Progress)
+- Kannada
+	- [Kannada Pixel](https://github.com/shankarsivarajan/KannadaPixel) (In Progress) 
