@@ -7,6 +7,7 @@
 	- [Origami FOLDs](https://github.com/shankarsivarajan/blender_import_fold)
 	- [Terragen terrains](https://github.com/shankarsivarajan/blender_import_terragen)
 	- [USC-HairSalon hairstyles](https://github.com/shankarsivarajan/blender_import_HairSalon)
+	- [OpenSceneGraph meshes](https://github.com/shankarsivarajan/blender_import_OpenSceneGraph)
 	- [RigNet rigs](https://github.com/shankarsivarajan/bRigNet_load_skeleton)
 
 - [CubeSurfer IsoSurface mesher](https://github.com/shankarsivarajan/CubeSurfer)
