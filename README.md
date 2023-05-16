@@ -29,9 +29,10 @@
 - Tengwar
 	- [Tengwar Artano](https://github.com/shankarsivarajan/TengwarArtano)
 	- [Tengwar Hanno](https://github.com/shankarsivarajan/TengwarHanno)
-	- [Tengwar Pixel](https://github.com/shankarsivarajan/TengwarPixel) 
+	- [Tengwar Nenya](https://github.com/shankarsivarajan/TengwarNenya)
+	- [Tengwar Pixel](https://github.com/shankarsivarajan/TengwarPixel)
 	- [Tengwar Rácina](https://github.com/shankarsivarajan/TengwarRacina)
-	- [Tengwar Gondolin](https://github.com/shankarsivarajan/TengwarGondolin) 
+	- [Tengwar Gondolin](https://github.com/shankarsivarajan/TengwarGondolin)
 - In Progress
 	- [Devanagari Pixel](https://github.com/shankarsivarajan/DevanagariPixel)
 	- [Kannada Pixel](https://github.com/shankarsivarajan/KannadaPixel)
