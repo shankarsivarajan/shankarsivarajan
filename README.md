@@ -35,6 +35,8 @@
 	- [Tengwar Pixel](https://github.com/shankarsivarajan/TengwarPixel)
 	- [Tengwar Rácina](https://github.com/shankarsivarajan/TengwarRacina)
 	- [Tengwar Gondolin](https://github.com/shankarsivarajan/TengwarGondolin)
+ - [Swastix](https://github.com/shankarsivarajan/swastix)
+ 	- Swastix Block 	
 - In Progress
 	- [Devanagari Pixel](https://github.com/shankarsivarajan/DevanagariPixel)
 	- [Kannada Pixel](https://github.com/shankarsivarajan/KannadaPixel)
