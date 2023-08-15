@@ -1,6 +1,6 @@
 # My Repositories
 
-## <img src="icons/blender.svg" width = 128> Blender Addons
+## <img src="icons/blender.svg" width = 64 align = "center"> Blender Addons
 - Import-Export
 	- [Skinned Graphs](https://github.com/shankarsivarajan/Blender_Skinned_Graph_io)
 	- [ASCII Knots](https://github.com/shankarsivarajan/blender_knots)
@@ -13,14 +13,14 @@
 - [CubeSurfer IsoSurface mesher](https://github.com/shankarsivarajan/CubeSurfer)
 - [Vertex Weights to UV Map](https://github.com/shankarsivarajan/Blender_weights_to_uv)
 
-## <img src="icons/autohotkey.svg" width = 128> AutoHotKey Scripts
+## <img src="icons/autohotkey.svg" width = 64 align = "center"> AutoHotKey Scripts
 - [Special Characters](https://github.com/shankarsivarajan/ahk_characters)
 - [Keyboards](https://github.com/shankarsivarajan/ahk_keyboards)
 
-## <img src="icons/chrome.svg" width = 128> Chrome Extensions 
+## <img src="icons/chrome.svg" width = 64 align = "center"> Chrome Extensions 
 - [Stereo to Anaglyph](https://github.com/shankarsivarajan/Stereo_to_Anaglyph_Chrome)
 
-## <img src="icons/fontforge.svg" width = 128> Fonts
+## <img src="icons/fontforge.svg" width = 64 align = "center"> Fonts
 - Latin
 	- [Latin Artano](https://github.com/shankarsivarajan/LatinArtano)
  	- [Unowan CCI](https://github.com/shankarsivarajan/UnowanCCI)
