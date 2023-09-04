@@ -37,7 +37,10 @@
 	- [Tengwar Gondolin](https://github.com/shankarsivarajan/TengwarGondolin)
  - [Swastix](https://github.com/shankarsivarajan/swastix)
  	- Swastix Block
- 	- Swastix Segment   
+ 	- Swastix Segment
+- Ithkuil
+	- [Ithkuil Basic](https://github.com/shankarsivarajan/IthkuilBasic)
+ 	- [Ithkuil Flow](https://github.com/shankarsivarajan/IthkuilFlow)
 - In Progress
 	- [Devanagari Pixel](https://github.com/shankarsivarajan/DevanagariPixel)
 	- [Kannada Pixel](https://github.com/shankarsivarajan/KannadaPixel)
