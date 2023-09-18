@@ -38,6 +38,7 @@
  - [Swastix](https://github.com/shankarsivarajan/swastix)
  	- Swastix Block
  	- Swastix Segment
+  	- Swastix Tube
 - Ithkuil
 	- [Ithkuil Basic](https://github.com/shankarsivarajan/IthkuilBasic)
  	- [Ithkuil Flow](https://github.com/shankarsivarajan/IthkuilFlow)
