@@ -9,6 +9,7 @@
 	- [USC-HairSalon hairstyles](https://github.com/shankarsivarajan/blender_import_HairSalon)
 	- [OpenSceneGraph meshes](https://github.com/shankarsivarajan/blender_import_OpenSceneGraph)
 	- [RigNet rigs](https://github.com/shankarsivarajan/bRigNet_load_skeleton)
+ 	- [XNALara models](https://github.com/shankarsivarajan/XNALaraMesh)
 
 - [CubeSurfer IsoSurface mesher](https://github.com/shankarsivarajan/CubeSurfer)
 - [Vertex Weights to UV Map](https://github.com/shankarsivarajan/Blender_weights_to_uv)
