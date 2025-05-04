@@ -24,7 +24,7 @@
 ## <img src="icons/fontforge.svg" width = 64 align = "center"> Fonts
 - Latin
 	- [Latin Artano](https://github.com/shankarsivarajan/LatinArtano)
- 	- [Unowan CCI](https://github.com/shankarsivarajan/UnowanCCI)
+ 	- [Unowan CCI + Unowan Pixel](https://github.com/shankarsivarajan/UnowanCCI)
 - Cyrillic
 	- [Eliasovich](https://github.com/shankarsivarajan/Eliasovich)
 	- [osifont](https://github.com/shankarsivarajan/osifont)
