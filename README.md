@@ -47,6 +47,8 @@
   	- [Ithkuil Pixel](https://github.com/shankarsivarajan/IthkuilPixel)
 - Zbalermorna
 	- [Zbalermorna Pixel](https://github.com/shankarsivarajan/ZbalermornaPixel)
-- In Progress
+- Devanagari
 	- [Devanagari Pixel](https://github.com/shankarsivarajan/DevanagariPixel)
+- [Shu Script](https://github.com/shankarsivarajan/Shu_Script_fonts)
+- In Progress
 	- [Kannada Pixel](https://github.com/shankarsivarajan/KannadaPixel)
