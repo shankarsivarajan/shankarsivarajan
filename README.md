@@ -17,7 +17,8 @@
 ## <img src="icons/autohotkey.svg" width = 64 align = "center"> AutoHotKey Scripts
 - [Special Characters](https://github.com/shankarsivarajan/ahk_characters)
 - [Keyboards](https://github.com/shankarsivarajan/ahk_keyboards)
-
+- [OpenRouter API](https://github.com/shankarsivarajan/ahk_openrouter)
+  
 ## <img src="icons/chrome.svg" width = 64 align = "center"> Chrome Extensions 
 - [Stereo to Anaglyph](https://github.com/shankarsivarajan/Stereo_to_Anaglyph_Chrome)
 
