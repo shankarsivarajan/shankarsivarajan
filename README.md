@@ -45,6 +45,7 @@
 - Ithkuil
 	- [Ithkuil Basic](https://github.com/shankarsivarajan/IthkuilBasic)
  	- [Ithkuil Flow](https://github.com/shankarsivarajan/IthkuilFlow)
+    - [Ithkuil Curse](https://github.com/shankarsivarajan/IthkuilCurse)
   	- [Ithkuil Pixel](https://github.com/shankarsivarajan/IthkuilPixel)
 - Zbalermorna
 	- [Zbalermorna Pixel](https://github.com/shankarsivarajan/ZbalermornaPixel)
