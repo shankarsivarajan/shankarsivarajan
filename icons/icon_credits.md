@@ -8,4 +8,4 @@ The icons are based on the following designs:
 - AutoHotKey: [forum thread](https://www.autohotkey.com/boards/viewtopic.php?t=68147)
 - Fonts: [FontForge](https://fontforge.org/en-US/)
 - Hexagon: [Hexagon](https://hexagonmath.org/)
-- 
+
