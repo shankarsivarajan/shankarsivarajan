@@ -7,3 +7,5 @@ The icons are based on the following designs:
 - Panda3d and ursina: Google's Noto project emojis [u1f43b](https://en.wikipedia.org/wiki/File:Emoji_u1f43b.svg) and [u1f43c](https://en.wikipedia.org/wiki/File:Emoji_u1f43c.svg)
 - AutoHotKey: [forum thread](https://www.autohotkey.com/boards/viewtopic.php?t=68147)
 - Fonts: [FontForge](https://fontforge.org/en-US/)
+- Hexagon: [Hexagon](https://hexagonmath.org/)
+- 
